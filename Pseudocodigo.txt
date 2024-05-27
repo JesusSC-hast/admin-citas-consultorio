@@ -1,0 +1,53 @@
+```plaintext
+Clase Main {
+  método main() {
+    mostrarPantallaLogin()
+    si (validarCredenciales(usuario, contraseña)) {
+      mostrarMenuPrincipal()
+    }
+  }
+}
+
+Clase Doctor {
+  atributos:
+    int id
+    String nombre
+    String especialidad
+  métodos:
+    constructor(id, nombre, especialidad)
+    getters y setters
+}
+
+Clase Paciente {
+  atributos:
+    int id
+    String nombre
+  métodos:
+    constructor(id, nombre)
+    getters y setters
+}
+
+Clase Cita {
+  atributos:
+    int id
+    Date fechaHora
+    String motivo
+    Doctor doctor
+    Paciente paciente
+  métodos:
+    constructor(id, fechaHora, motivo, doctor, paciente)
+    getters y setters
+}
+
+Clase Administrador {
+  atributos:
+    String usuario
+    String contraseña
+  métodos:
+    validarCredenciales(usuario, contraseña)
+    mostrarMenuPrincipal()
+    darAltaDoctor()
+    darAltaPaciente()
+    crearCita()
+    relacionarCita()
+}
