@@ -1,0 +1,9 @@
+# Archivos de clase y proyecto
+*.class
+*.swp
+.idea/
+*.iml
+out/
+
+# Archivos de base de datos
+db/
