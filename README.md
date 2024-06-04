@@ -25,4 +25,4 @@ Jesus Eduardo Salgado Castillo
 Este proyecto está licenciado bajo los términos de la MIT License.
 
 ## Documentación
-Para más detalles, consulta la [documentación en la Wiki](https://github.com/JesusSC-hast/admin-citas-consultorio.wiki.git).
+Para más detalles, consulta la [documentación en la Wiki](https://github.com/JesusSC-hast/admin-citas-consultorio/wiki).
