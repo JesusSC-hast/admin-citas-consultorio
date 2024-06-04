@@ -2,9 +2,9 @@
 
 ## Instalación y configuración
 1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/JesusSC-hast/admin-citas-consultorio.git
-
+    ```sh
+    git clone https://github.com/JesusSC-hast/admin-citas-consultorio.git
+    ```
 
 ## Uso del programa
 1. Ejecuta el archivo Admin-Citas-Consultorio.
@@ -24,3 +24,5 @@ Jesus Eduardo Salgado Castillo
 ## Licencia
 Este proyecto está licenciado bajo los términos de la MIT License.
 
+## Documentación
+Para más detalles, consulta la [documentación en la Wiki](https://github.com/JesusSC-hast/admin-citas-consultorio.wiki.git).
